@@ -1,0 +1,8 @@
+langchain
+openai
+streamlit
+chromadb
+tiktoken
+unstructured
+pdf2image
+pdfminer.six
